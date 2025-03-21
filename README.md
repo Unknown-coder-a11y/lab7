@@ -1,2 +1,2 @@
 # lab7
-"Print Hello World" нэртэй товч нь дарсан үед консол дээр "Hello, World!" текстийг хэвлэдэг.
+Java swing ashiglsn burtgeliin system
